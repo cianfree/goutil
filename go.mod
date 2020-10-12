@@ -1,3 +1,2 @@
-module git.yy.com/xiajiqiu3/goutil
+module github.com/cianfree/goutil
 
-go 1.15
